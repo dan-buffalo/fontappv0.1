@@ -1,0 +1,17 @@
+<resources>
+    <string name="google_maps_Key_API">AIzaSyCs4Dwuqoxup_K_vE2GxzXwmMolS37DpYE</string>
+    <string name="app_name">FontAppBeta</string>
+    <string name="benvenuto">Benvenuto</string>
+    <string name="username"> Inserisci il tuo username</string>
+    <string name="password"> Inserisci la tua password</string>
+    <string name="no_account">Registrati</string>
+
+    <string name="login">Login</string>
+    <string name="aggiungi_una_foto">Aggiungi una foto</string>
+    <string name="image_content_descriprion">Immagine della fontanina</string>
+    <string name="fountain_position">Dove si trova la fontanina?</string>
+    <string name="my_position">La mia posizione</string>
+    <string name="go_on">Avanti</string>
+    <string name="go_back">Indietro</string>
+    <string name="add">+</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701737174482",
+    "firebase_url": "https://fontapp.firebaseio.com",
+    "project_id": "fontapp",
+    "storage_bucket": "fontapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701737174482:android:80a1a989f8699c2a5e740b",
+        "android_client_info": {
+          "package_name": "com.davide.fontappbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701737174482-dj24g3qakktrievusonutrumq5jbcqre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davide.fontappbeta",
+            "certificate_hash": "5bfe393120c9c896bb7a8cdacd0409c8f20ec2d5"
+          }
+        },
+        {
+          "client_id": "701737174482-vtai7sdr06ko1dtceq93j74q28smns7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45JJezM_LU9yjchcwTIM36Y4q_l07jZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701737174482-vtai7sdr06ko1dtceq93j74q28smns7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
