@@ -1,5 +1,5 @@
 <resources>
-    <string name="google_maps_Key_API">AIzaSyCs4Dwuqoxup_K_vE2GxzXwmMolS37DpYE</string>
+    <string name="google_maps_Key_API">ENTER-YOUR-API-KEY</string>
     <string name="app_name">FontAppBeta</string>
     <string name="benvenuto">Benvenuto</string>
     <string name="username"> Inserisci il tuo username</string>
